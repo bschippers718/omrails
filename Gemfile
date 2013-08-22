@@ -42,4 +42,7 @@ end
 	  gem 'sdoc', require: false
 	end
 
+<<<<<<< HEAD
 	#This is a testtt
+=======
+>>>>>>> 476a1d1bc44fc373d81846fd18084eb78e4df648
